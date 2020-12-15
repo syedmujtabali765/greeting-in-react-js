@@ -1,0 +1,20 @@
+div {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -30px;
+  background-color: #c1fba4;
+}
+
+h1 {
+  padding: 20px;
+  background-color: #ffef9f;
+  color: #90f1ef;
+  border-radius: 25px;
+}
+
+span {
+  color: blueviolet;
+}
